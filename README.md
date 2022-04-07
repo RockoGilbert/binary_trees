@@ -32,5 +32,3 @@
   .--(-08)--.                           (004)
 (-09)     (-07)
 ```
-
-[Original code](Original code from http://stackoverflow.com/a/13755911/5184480)
