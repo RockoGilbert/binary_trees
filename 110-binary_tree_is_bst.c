@@ -19,7 +19,7 @@ int bst_utility(const binary_tree_t *tree, int min, int max)
 }
 
 /**
- * binary_tree_is_bst - checks if a binary tree is a binary search tree
+ * binary_tree_is_bst - checks if a binary tree is binary search tree
  * @tree: tree to check
  * Return: 1 for true, 0 for false
  */
