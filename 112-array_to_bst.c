@@ -27,7 +27,7 @@ if (j == i)
 if (bst_insert(&tree, array[i]) == NULL)
 return (NULL);
 }
-    }
+}
 
-    return (tree);
+return (tree);
 }
