@@ -38,7 +38,7 @@ else
 }
 if (value < parent->n)
     parent->left = new_node;
-else
+    else
     parent->right = new_node;
     return (new_node);
 }
